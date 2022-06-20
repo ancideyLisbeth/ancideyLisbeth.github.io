@@ -1,0 +1,35 @@
+ 
+.navbar{
+    background-color: #28A745;
+}
+
+.card-tittle{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo_navbar{
+    height: 60px;
+}
+
+.parrafo1{
+    color: #28A745;
+}
+
+.formulario{
+    background-color: #28A745;
+    color: white;
+}
+
+.footer-imagen{
+    width: 300px;
+}
+
+.rigth{
+    float: right;
+}
+
+
+/* Muy buen trabajo. Solo dos observaciones, la primera es que en la vista de escritorio existe una discordancia de tamaño en un par de cards. La segunda es que en vista mobile el ícono del footer queda cargado a la derecha.
+
+Puedes revisar el modelo de caja para descubrir cómo hacer para que el tamaño sea responsivo y se adecúe bien sin que existan estas diferencias entre componentes del mismo tipo.
+De igual manera está bien logrado el desafío.*/
